@@ -1,0 +1,9 @@
+img{
+    width: 10em;
+}
+body{
+    background-image:url(/harry-potter-header12.jpeg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
